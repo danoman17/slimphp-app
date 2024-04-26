@@ -2,4 +2,4 @@
 
 export * from './pages/AlmacenPage';
 
-export * from './components/NavBar';
+export * from './components/NavBarAlmacen';
